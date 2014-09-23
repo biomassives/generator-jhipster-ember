@@ -43,7 +43,7 @@ JhipsterGenerator.prototype.askFor = function askFor() {
     type: 'input',
     name: 'packageName',
     message: '(2/5) What is your default Java package name?',
-    default: 'com.mycompany.myapp'
+    default: 'com.biomassives.myapp'
   }, {
     type: 'list',
     name: 'storage',
