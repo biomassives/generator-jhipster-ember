@@ -38,8 +38,8 @@ If you want to use [Stormpath](http://stormpath.com)
 #Usage
 
 ```
-> mkdir my_proyect
-> cd my_proyect
+> mkdir javaember_project
+> cd javaember_project
 > yo jhipster-ember
 ```
 
