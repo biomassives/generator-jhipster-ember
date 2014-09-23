@@ -71,7 +71,7 @@ JhipsterGenerator.prototype.askFor = function askFor() {
   }, {
     type: 'list',
     name: 'stormpath',
-    message: '(5/5) Use Stormpath as authentication provider?',
+    message: '(5/5) Use Awesome Stormpath as authentication provider?',
     choices: [{
       value: 'yes',
       name: 'Yes'
